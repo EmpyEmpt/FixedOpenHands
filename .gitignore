@@ -1,0 +1,7 @@
+*.zip
+*.mov
+*.json
+*.ckpt
+*.pkl
+
+/venv
